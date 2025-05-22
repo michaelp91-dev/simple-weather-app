@@ -36,7 +36,7 @@ A straightforward web application that allows users to fetch and display current
 ## Live Demo
 
 Experience the app live here:
-[https://michaelp91-dev.github.io/simple-weather-app/](https://michaelp91-de .github.io/simple-weather-app/)
+[https://michaelp91-dev.github.io/simple-weather-app/](https://michaelp91-dev.github.io/simple-weather-app/)
 
 ## API Key Security Note
 
